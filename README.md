@@ -1,6 +1,8 @@
+# argcShow  
 ### Features
 - Show out the all arguments you get
-
+  
+  
 # Example
 running this command with cmd
 > argc.exe -s -f -t 0
