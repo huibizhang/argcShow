@@ -8,7 +8,6 @@ running this command with cmd
 and you will get the arguments array show back like this
 
  [0] argc.exe
-
  [1] -s
 
 [2] -f
